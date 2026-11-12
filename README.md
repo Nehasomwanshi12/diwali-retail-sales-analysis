@@ -36,7 +36,7 @@ The dashboard helps explore revenue, delivered orders, customers, estimated prof
 *Metrics reflect the current dashboard view and may change with slicer selections.*
 
 ## Dashboard Preview
-![Diwali Retail Sales Dashboard](Images/dashboard-preview.png)
+![Diwali Retail Sales Dashboard]("C:\Users\neham\OneDrive\Pictures\Screenshots\dashboard-preview.png")
 
 ## Project Structure
 - `Dashboard/` – Power BI report
